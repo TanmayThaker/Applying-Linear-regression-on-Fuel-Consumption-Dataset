@@ -1,4 +1,4 @@
-# Applying-Logistic-regression-on-Fuel-Consumption-Dataset
+# Applying-Linear-regression-on-Fuel-Consumption-Dataset
 In this repo I have tried to demonstrate logistic regression using a python library called Scikit Learn including Data Exploration and data visualization.
 We have downloaded a fuel consumption dataset, FuelConsumption.csv, which contains model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles for retail sale in Canada. Dataset source
 
